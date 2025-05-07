@@ -1,0 +1,32 @@
+﻿Change Log for Specify 6 Software.
+Questions or comments should be directed to:
+
+David Geeraerts
+Computer Applications Lab (CAL) Manager for Scientific Computing
+The Evergreen State College
+2700 evergreen Parkway NW
+LAB II 1217
+Olympia, WA 98505
+360-867-5163
+geeraerd@evergreen.edu
+
+
+Log can be exported as tab delimited file, just select the starting row to be 17 or where the first record starts.
+#################################################
+*First Row includes column headers*
+Date	Initials	Comment
+2025-05-07	DG	Host server SC-Taxis upgraded to Fedora Server 42.
+2022-05-20	DG	Updated "secret_code.txt", "TESC_Specify_Distribute_Fellows.ods", "Specify_GlobalGuest_MasterKey.txt"
+2022-05-18	DG	Specify is now running on SC-Taxis; Specify upgraded to version 6.8.1.
+2018-11-15	DG	Upgraded Specify software to version 6.7.1
+2017-12-22	DG	Created Algae Collection
+2017-12-12	DG	Updated Specify database to version 6.6.06 (from 6.6.05).
+2016-09-20	DG	Updated Specify database to version 6.6.04 (from 6.6.02).
+2015-12-15	DG	Updated Specify database to version 6.6.02. (from 6.4.13).
+2014-06-10	DG	customized data form for Mollusca collection: changed display name from "Label Number" to "alt Cat Number" to make it consistent with all the other collections.
+2013-11-04	DG	Added "Herbarium Red folders" to custom PickList "Storage Locations" in Plantae collection.
+2013-01-28	DG	exported original data forms; customized data forms to include altCatalogNumber (displayed as Label Number) for Aves, Mammalia, and Plantae.
+
+
+
+
